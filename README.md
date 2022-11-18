@@ -1,3 +1,6 @@
+# Patched Fork
+This repo is currently a personal fork with small patches, including offloading so that the large model is usable with consumer GPU's with only 8gb of VRAM.
+
 # Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
